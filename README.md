@@ -12,7 +12,7 @@ int cspeed(int semimajor_axis, int semiminor_axis, int year)
 >
 >
 >
-
+>3
 >4
 >5>
 >>6
@@ -23,15 +23,14 @@ int cspeed(int semimajor_axis, int semiminor_axis, int year)
 >>3
 >>2
 >>2
-
-
-
-
-
-
-
+?
+?
+??
+>
+>>
 ?.
-
+>
+>
 2
 3
 2
@@ -45,7 +44,7 @@ int cspeed(int semimajor_axis, int semiminor_axis, int year)
 43
 2
 
-
+?
 
 
 
