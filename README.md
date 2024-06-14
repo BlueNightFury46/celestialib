@@ -8,8 +8,8 @@
 
 
  ## c_dist
-### c_dist is an implementation of Kepler's 3rd law and has 3 different variations in c_dist:
-<br><br>
+> ### c_dist is an implementation of Kepler's 3rd law and has 3 different variations in c_dist:
+<br>
 >
 ### int c_dst(int time, int star_m, bool r_days) - returns semimajor axis of orbit (AU)
 > takes in the time, mass of the parent star and a boolean which indicates whether to use days, or years. (true means use days, false means use years)
