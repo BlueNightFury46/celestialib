@@ -22,9 +22,20 @@ int cspeed(int semimajor_axis, int semiminor_axis, int year)
 
 
 
+?.
 
+2
+3
+2
+3
+4
+6
+79
 
-
+9
+2
+43
+2
 
 
 
