@@ -13,7 +13,7 @@
 ### int c_dst(int time, int star_m, bool r_days) - returns semimajor axis of orbit (AU)
 > takes in the time, mass of the parent star and a boolean which indicates whether to use days, or years. (true means use days, false means use years)
 >
->> ### int c_dst(int radius, int star_m, int r_days) - returns orbital period 
+### int c_dst(int radius, int star_m, int r_days) - returns orbital period 
 > takes in the radius of the orbit (semimajor axis), mass of the star and a boolean which decides whether to use days, or years. (true means use days, false means use years)
 >
 ### int c_dst(int time, int radius) - returns the mass of the parent star (solar masses)
