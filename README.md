@@ -6,3 +6,29 @@
 > ### (cspeed)[https://github.com/BlueNightFury46/celestialib/edit/main/README.md?L8]
 int cspeed(int semimajor_axis, int semiminor_axis, int year) 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Line 34
