@@ -20,7 +20,7 @@
 > takes in the orbital period in Earth years and the radius of the orbit in AU
 
 ## c_luminosity
-> double c_luminosity(double Radius, double Temperature)
+> double c_luminosity(double Radius, double Temperature)<br>
 > takes in the Radius of the star (in Solar Radii), surface Temperature (Kelvin) and returns the Solar Luminosity of the star relative to the Sun.
 >
 > Accepts a STAR object and returns 0 if any of the required fields (Temperature, Radius) are missing.
