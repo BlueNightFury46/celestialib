@@ -2,13 +2,13 @@
  Celestialib is a small open-source C++ project I made 
  which provides some Astronomy equations and functions
 
-> ## cspeed 
+ ## cspeed 
 > cspeed is a function that calculates the orbital speed of a planet, given the semiminor-axis, semimajor-axis and year (it also works with just the average distance from the star and year), the semimajor and semiminor axes are in AU and the year is in Earth years
 > int cspeed(int semimajor-axis, int semiminor-axis, int year) 
 
 
  ## c_dist
- ### c_dist is an implementation of Kepler's 3rd law and has 3 different variations in c_dist:
+> ### c_dist is an implementation of Kepler's 3rd law and has 3 different variations in c_dist:
 >
 > ### int c_dst(int time, int star_m, bool r_days) - returns semimajor axis of orbit (AU)
 > takes in the time, mass of the parent star and a boolean which indicates whether to use days, or years. (true means use days, false means use years)
