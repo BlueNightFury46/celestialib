@@ -3,7 +3,12 @@
 
 int main (int argc, char *argv[]) {
 
-  std::cout << _kepler3__(30, 1);
+  celestial::STAR polaris;
+
+  //polaris.temperature = 6015;
+  //polaris.radius = 37.5;
+
+  std::cout << celestial::c_luminosity(polaris);
   
   return 0;
 }
